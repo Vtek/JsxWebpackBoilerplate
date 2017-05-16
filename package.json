@@ -1,0 +1,32 @@
+{
+  "name": "jsx-webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "Just a simple boilerplate for TypeScript, React and Webpack",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vtek/JsxWebpackBoilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vtek/JsxWebpackBoilerplate/issues"
+  },
+  "homepage": "https://github.com/Vtek/JsxWebpackBoilerplate#readme",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "webpack": "^2.5.1"
+  },
+  "devDependencies": {
+    "@types/react": "^15.0.24",
+    "@types/react-dom": "^15.5.0",
+    "awesome-typescript-loader": "^3.1.3",
+    "html-webpack-plugin": "^2.28.0",
+    "source-map-loader": "^0.2.1",
+    "typescript": "^2.3.2"
+  }
+}
